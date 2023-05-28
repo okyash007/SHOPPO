@@ -147,7 +147,7 @@ function Products({ sort, filterValue }) {
                             </CardMedia>
                             <CardContent>
                                 <Typography variant="h6" color="textSecondary" component="p" size="big">
-                                    £ {el.price}
+                                    ₹ {el.price}
                                 </Typography>
                             </CardContent>
                             <CardActions disableSpacing>
